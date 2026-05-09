@@ -1,0 +1,46 @@
+2026-05-06 00:40:36 - INFO - Inicio de sesión de pruebas.
+2026-05-06 00:40:36 - INFO - Simulacion 1 exitosa.
+2026-05-06 00:40:36 - WARNING - Simulacion 2 detectó error: Correo electrónico no válido
+2026-05-06 00:40:36 - INFO - Simulacion 3: Servicios instanciados.
+2026-05-06 00:40:36 - INFO - Simulacion 4 exitosa.
+2026-05-06 00:40:36 - WARNING - Simulacion 5 detectó error: La duración de la reserva debe ser mayor a cero.
+2026-05-06 00:40:36 - INFO - Simulacion 6 exitosa.
+2026-05-06 00:40:36 - ERROR - Error detectado en Sim 7: name 'reserva_fantasma' is not defined
+2026-05-06 00:40:36 - INFO - Simulacion 8 exitosa.
+2026-05-06 00:40:36 - INFO - Simulacion 9 exitosa.
+2026-05-06 00:40:36 - INFO - Simulacion 10: Sesión finalizada con estabilidad.
+2026-05-08 21:49:53 - INFO - Inicio de sesión de pruebas.
+2026-05-08 21:49:53 - INFO - Simulacion 1 exitosa.
+2026-05-08 21:49:53 - WARNING - Simulacion 2 detectó error: Correo electrónico no válido
+2026-05-08 21:49:53 - INFO - Simulacion 3: Servicios instanciados.
+2026-05-08 21:49:53 - INFO - Simulacion 4 exitosa.
+2026-05-08 21:49:53 - WARNING - Simulacion 5 detectó error: La duración de la reserva debe ser mayor a cero.
+2026-05-08 21:49:53 - INFO - Simulacion 6 exitosa.
+2026-05-08 21:49:53 - ERROR - Error detectado en Sim 7: name 'reserva_fantasma' is not defined
+2026-05-08 21:49:53 - INFO - Simulacion 8 exitosa.
+2026-05-08 21:49:53 - INFO - Simulacion 9 exitosa.
+2026-05-08 21:49:53 - INFO - Simulacion 10: Sesión finalizada con estabilidad.
+2026-05-08 22:17:25 - INFO - Inicio de sesión de pruebas.
+2026-05-08 22:17:25 - INFO - Simulacion 1 exitosa.
+2026-05-08 22:17:25 - WARNING - Simulacion 2 detectó error: Correo electrónico no válido
+2026-05-08 22:17:25 - INFO - Simulacion 3: Servicios instanciados.
+2026-05-08 22:17:25 - INFO - Simulacion 4 exitosa.
+2026-05-08 22:17:25 - WARNING - Simulacion 5 detectó error: La duración de la reserva debe ser mayor a cero.
+2026-05-08 22:17:25 - INFO - Simulacion 6 exitosa.
+2026-05-08 22:17:25 - ERROR - Sim 7: Servicio no encontrado | Origen técnico: 'ID S99 no encontrado.'
+2026-05-08 22:17:25 - INFO - Simulacion 8 exitosa.
+2026-05-08 22:17:25 - INFO - Simulacion 9 exitosa.
+2026-05-08 22:17:25 - INFO - Simulación 10: Verificación de cierre de sesión.
+2026-05-08 22:17:25 - INFO - Finalización de la jornada de pruebas simuladas.
+2026-05-08 22:17:32 - INFO - Inicio de sesión de pruebas.
+2026-05-08 22:17:32 - INFO - Simulacion 1 exitosa.
+2026-05-08 22:17:32 - WARNING - Simulacion 2 detectó error: Correo electrónico no válido
+2026-05-08 22:17:32 - INFO - Simulacion 3: Servicios instanciados.
+2026-05-08 22:17:32 - INFO - Simulacion 4 exitosa.
+2026-05-08 22:17:32 - WARNING - Simulacion 5 detectó error: La duración de la reserva debe ser mayor a cero.
+2026-05-08 22:17:32 - INFO - Simulacion 6 exitosa.
+2026-05-08 22:17:32 - ERROR - Sim 7: Servicio no encontrado | Origen técnico: 'ID S99 no encontrado.'
+2026-05-08 22:17:32 - INFO - Simulacion 8 exitosa.
+2026-05-08 22:17:32 - INFO - Simulacion 9 exitosa.
+2026-05-08 22:17:32 - INFO - Simulación 10: Verificación de cierre de sesión.
+2026-05-08 22:17:32 - INFO - Finalización de la jornada de pruebas simuladas.
